@@ -1,3 +1,3 @@
-# opperationsBetweenNumbers
+# isExelent
 
-a functions that makes mathematical operations between numbers
+a functions that tells if a given grade is excellent
